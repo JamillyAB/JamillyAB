@@ -1,16 +1,15 @@
-## Olá para quem vê este perfil 👋
 
+![584412489191269362](https://github.com/user-attachments/assets/7b1898bf-6e0d-4bfb-b845-b58dc0332842)
 
-**JamillyAB/JamillyAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindos! 𐔌՞. .՞𐦯
 
-Here are some ideas to get you started:
+> Meu nome é Jamilly. Atualmente estou cursando Técnico em Informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### _Interesses_
+- Programação.
+- Produzir qualquer tipo de arte.
+- Livros.
+- Videogames.
 
+## Como entrar em contato comigo ૮ ․ ․ ྀིა
+> Envie-me um e-mail:
