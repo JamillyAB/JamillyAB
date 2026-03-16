@@ -3,13 +3,15 @@
 
 ## Bem vindos! 𐔌՞. .՞𐦯
 
-> Meu nome é Jamilly. Atualmente estou cursando Técnico em Informática.
+> Meu nome é Jamilly. Atualmente estou cursando Técnico em Informática na UFSM.
 
 ### _Interesses_
 - Programação.
+- Desenvolvimento de web.
 - Produzir qualquer tipo de arte.
 - Livros.
 - Videogames.
+- 
 
 ## Como entrar em contato comigo ૮ ․ ․ ྀིა
-> Envie-me um e-mail:
+> Envie-me um e-mail: xxx@gmail.com
